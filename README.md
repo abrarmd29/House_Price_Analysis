@@ -6,6 +6,7 @@ Welcome to the House Price Dataset Analysis Project! This project involves the a
 1. Source Data
 2. Jupyter Notebook Code
 3. Summary PDF
+4. Code Results
 
 ## 1. Source Data
 
@@ -23,12 +24,12 @@ You can download the dataset from kaggle as well- https://www.kaggle.com/competi
 
 ## 2. Jupyter Notebook Code
 
-This branch contains the Jupyter notebook code that analyzes the House Price dataset. You can find the code in the code folder. The notebook consists of Python code.
+This folder contains the Jupyter notebook code that analyzes the House Price dataset. You can find the code in the code folder. The notebook consists of Python code.
 
 ## 3. Summary PDF
 
-This branch contains a PDF file summarizing the analysis of the House Price dataset. You can find the summary PDF in the Documents folder. The PDF includes a concise summary of the analysis, major findings, and visualizations in the form of bar graphs.
+This folder contains a PDF file summarizing the analysis of the House Price dataset. You can find the summary PDF in the Docs folder. The PDF includes a concise summary of the analysis, major findings, and visualizations in the form of bar graphs.
 
-## 3. results
+## 4. results
 
-This branch contains a Results of the code. You can find it result folder.
+This folder contains Results of the code. You can find it result folder.
