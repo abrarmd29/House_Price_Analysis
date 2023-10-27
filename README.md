@@ -3,9 +3,9 @@
 Welcome to the House Price Dataset Analysis Project! This project involves the analysis of a house price dataset using Python. The dataset contains various features related to houses and their sale prices.
 
 ## Table of Contents
-1. [Source Data](#source)
-2. [Jupyter Notebook Code](#code)
-3. [Summary PDF](#Documents)
+1. [Source Data]
+2. [Jupyter Notebook Code]
+3. [Summary PDF]
 
 ## 1. Source Data
 
